@@ -1,5 +1,9 @@
 # MatchMakerApp: A Deep Learning Command Line Application for Drug Synergy Prediction
-MatchMakerApp is a command line application that predict Loewe synergy score of two given drugs. MatchMakerApp uses the our deep learning model <a href="https://www.biorxiv.org/content/10.1101/2020.05.24.113241v3">**MatchMaker**</a>
+MatchMakerApp is a command line application that predict Loewe synergy score of two given drugs. 
+
+MatchMakerApp uses the our deep learning model <a href="https://www.biorxiv.org/content/10.1101/2020.05.24.113241v3">**MatchMaker**</a>. 
+
+You can predict the synergy score of any two drugs by using their PubChem CIDs and select the tissue and cell line available in the application.
 
 ---
 ## Abstract
