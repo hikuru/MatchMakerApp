@@ -1,0 +1,2 @@
+DSN_1,DSN_2,SPN,L_Rate
+2048-4096-2048,2048-4096-2048,2048-1024,matchmaker_trained
